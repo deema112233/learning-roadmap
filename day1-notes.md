@@ -1,0 +1,3 @@
+- Learned to install Node.js, VS Code, and Git
+- Practiced terminal basics (pwd, ls, cd, mkdir, rm)
+- Created first GitHub repository and pushed files
